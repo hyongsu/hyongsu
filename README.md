@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hyongsu
 - 👀 I’m interested in Python, Java programmming.
-- 🌱 I’m currently learning Python & Django.
+- 🌱 I’m currently learning Python & Django framework.
 - 💞️ I’m looking to collaborate on HRD project.
 - 📫 How to reach me ...
 

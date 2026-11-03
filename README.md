@@ -1,7 +1,7 @@
 # 👋 Hi, I’m hyongsu Kim !!
 ## 👀 I’m interested in Python, Java programmming.
 ## 🌱 I’m currently managing and developing Java, Vue.js for OSS.
-## 💞️ I’m looking to collaborate on HRD project.
+- [ ] 💞️ I’m looking to collaborate on HRD project.
 - [ ] 📫 How to reach me ...
 
 <!---
